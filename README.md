@@ -13,7 +13,7 @@ conda activate C_SER_model
 
 Install dependencies for finetuning
 ```bash
-git clone https://github.com/NBeye-research/Cycloplegic_SER_model.git
+git clone https://github.com/youngwang666/Cycloplegic_SER_model.git
 cd Cycloplegic_SER_model
 pip install -r requirements.txt
 ```
